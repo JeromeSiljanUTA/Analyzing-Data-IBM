@@ -6,4 +6,4 @@
  - Exercises 
  - Notes
 
-![IBM Certification](IBM\ DA0101EN\ Certificate\ \|\ edX.jpg)
+![IBM Certification](https://courses.edx.org/certificates/a47d7fa147a54c589d144bc7bf5ae666)
