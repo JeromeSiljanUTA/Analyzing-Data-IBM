@@ -2,9 +2,8 @@
 
 ## Contents
 
- - Exercises and labs
+ - Certificate of completion
+ - Exercises 
  - Notes
 
-That's it folks.
-
-Currently working on getting the official certification from IBM/edX
+![IBM Certification](IBM\ DA0101EN\ Certificate\ \|\ edX.jpg)
